@@ -1,0 +1,843 @@
+:PROPERTIES:
+:ID:       0351eceb-9bf5-4006-a15b-b2628ff8a038
+:END:
+#+TITLE: Winter 2026 Course Schedule
+#+AUTHOR: Student
+#+DATE: 2026-01-25
+#+STARTUP: overview
+
+* CST8913 Course (Islam Gomaa)
+** Professor: Islam Gomaa
+** Note: Detailed weekly schedule not yet available
+
+*** Assessment Overview
+:PROPERTIES:
+:NOTE: Specific dates to be announced by professor
+:END:
+
+**** In-Class Quizzes (10 total)
+- During scheduled class time
+- Value: 10% total
+- Must attend class to take quizzes
+
+**** TODO Online Quizzes (10 total)
+- Due: Sundays @11:59 PM each week
+- Value: 10% total
+
+**** TODO Labs (10 total)
+- Due: Lab day @11:59 PM
+- Value: 30% total
+
+**** TODO Midterm Exam
+- Week 7 during class
+- Value: 10%
+
+**** TODO Midterm Oral Exam
+- Week 7 (TBA)
+- Value: 10%
+
+**** TODO Final Oral Exam
+- Value: 10%
+- CRITICAL: Must achieve 50% minimum to pass course
+
+**** TODO Final Exam
+- Value: 20%
+
+*** Important Notes
+- No late assignments accepted
+- Must attend class for in-class quizzes
+- Minimum 50% on Oral Exam required to pass course
+
+* CST8911 Introduction to Cloud Computing
+** Professor: Jasleen Sharma
+** Email: sharmaj@algonquincollege.com
+
+*** Week 2 - Jan 20-25
+**** TODO Lab 1
+DEADLINE: <2026-01-25 Sat 23:59>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 2,4
+:END:
+
+*** Week 3 - Jan 27 - Feb 1
+**** TODO Assignment 1
+DEADLINE: <2026-02-01 Sat 23:59>
+:PROPERTIES:
+:VALUE: 5%
+:CLRs: 1,2,5
+:END:
+
+**** TODO Quiz 1
+DEADLINE: <2026-02-01 Sat 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 1,2
+:END:
+
+*** Week 4 - Feb 3-8
+**** TODO Class Discussion 1
+DEADLINE: <2026-02-08 Sat 23:59>
+:PROPERTIES:
+:VALUE: 2.5%
+:CLRs: 1,2
+:END:
+
+**** TODO Quiz 2
+DEADLINE: <2026-02-08 Sat 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 1,2,4
+:END:
+
+*** Week 5 - Feb 10-15
+**** TODO Class Discussion 2
+DEADLINE: <2026-02-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2.5%
+:CLRs: 1,2
+:END:
+
+*** Week 6 - Feb 17-22
+**** TODO Lab 2
+DEADLINE: <2026-02-22 Sun 23:59>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 2
+:END:
+
+**** TODO Assignment 2
+DEADLINE: <2026-02-22 Sun 23:59>
+:PROPERTIES:
+:VALUE: 5%
+:CLRs: 4,5
+:END:
+
+*** Week 7 - Feb 24 - Mar 1
+**** TODO Midterm Group Project
+DEADLINE: <2026-03-01 Sun 23:59>
+:PROPERTIES:
+:VALUE: 20%
+:CLRs: 1,2,4,5
+:END:
+
+*** Week 8 - Mar 2-8
+**** BREAK Week
+
+*** Week 9 - Mar 10-15
+**** TODO Lab 3
+DEADLINE: <2026-03-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 2,5
+:END:
+
+**** TODO Class Discussion 3
+DEADLINE: <2026-03-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2.5%
+:CLRs: 1,2
+:END:
+
+*** Week 10 - Mar 17-22
+**** TODO Assignment 3
+DEADLINE: <2026-03-22 Sun 23:59>
+:PROPERTIES:
+:VALUE: 5%
+:CLRs: 3,5
+:END:
+
+**** TODO Quiz 3
+DEADLINE: <2026-03-22 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 1,2,3,4,5
+:END:
+
+*** Week 11 - Mar 24-29
+**** TODO Class Discussion 4
+DEADLINE: <2026-03-29 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2.5%
+:CLRs: 1,2,5
+:END:
+
+*** Week 12 - Mar 31 - Apr 5
+**** TODO Lab 4
+DEADLINE: <2026-04-05 Sun 23:59>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 2,3
+:END:
+
+**** TODO Quiz 4
+DEADLINE: <2026-04-05 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 1,2,3,4,5
+:END:
+
+*** Week 13 - Apr 6-12
+**** TODO Lab 5
+DEADLINE: <2026-04-12 Sun 23:59>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 2
+:END:
+
+**** TODO Quiz 5
+DEADLINE: <2026-04-12 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 1,2,3,4,5
+:END:
+
+*** Week 15 - Apr 21-26
+**** TODO Final Group Project
+DEADLINE: <2026-04-26 Sun>
+:PROPERTIES:
+:VALUE: 20%
+:CLRs: 1,2,3,4,5
+:END:
+
+* CST8912 Cloud Solutions Architecture
+** Professor: Dhaval Vasveliya
+** Email: vasveld@algonquincollege.com
+
+*** Week 2 - Jan 19-25
+**** TODO Graded Quiz Activity 1
+DEADLINE: <2026-01-25 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1
+:END:
+
+**** TODO Graded Lab 1
+DEADLINE: <2026-01-25 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1
+:END:
+
+*** Week 3 - Jan 26 - Feb 1
+**** TODO Graded Quiz Activity 2
+DEADLINE: <2026-02-01 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1
+:END:
+
+**** TODO Graded Lab 2
+DEADLINE: <2026-02-01 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1
+:END:
+
+*** Week 4 - Feb 2-8
+**** TODO Graded Quiz Activity 3
+DEADLINE: <2026-02-08 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1
+:END:
+
+**** TODO Graded Lab 3
+DEADLINE: <2026-02-08 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 1
+:END:
+
+*** Week 5 - Feb 9-15
+**** TODO Graded Quiz Activity 4
+DEADLINE: <2026-02-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1
+:END:
+
+**** TODO Graded Lab 4
+DEADLINE: <2026-02-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1
+:END:
+
+*** Week 6 - Feb 16-22
+**** TODO Graded Quiz Activity 5
+DEADLINE: <2026-02-22 Sun 23:59>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 2
+:END:
+
+**** TODO Graded Lab 5
+DEADLINE: <2026-02-22 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 2
+:END:
+
+*** Week 7 - Feb 23 - Mar 1
+**** TODO Group Presentation 1 (In-class, upload 3hrs before)
+SCHEDULED: <2026-02-23 Mon>
+:PROPERTIES:
+:VALUE: 2.5%
+:CLRs: 2
+:END:
+
+*** Week 8 - Mar 2-8
+**** BREAK Week
+
+*** Week 9 - Mar 9-15
+**** TODO Graded Lab 6
+DEADLINE: <2026-03-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 2
+:END:
+
+**** TODO Graded Quiz Activity 6
+DEADLINE: <2026-03-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 5%
+:CLRs: 3
+:END:
+
+**** TODO Group Research Report 1
+DEADLINE: <2026-03-15 Sun 23:59>
+:PROPERTIES:
+:VALUE: 5%
+:CLRs: 3
+:END:
+
+*** Week 10 - Mar 16-22
+**** TODO Graded Lab 7
+DEADLINE: <2026-03-22 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 4
+:END:
+
+**** TODO Group Presentation 2 (In-class, upload 3hrs before)
+SCHEDULED: <2026-03-16 Mon>
+:PROPERTIES:
+:VALUE: 2.5%
+:CLRs: 4
+:END:
+
+*** Week 11 - Mar 23-29
+**** TODO Graded Lab 8
+DEADLINE: <2026-03-29 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 5
+:END:
+
+**** TODO Graded Quiz Activity 7
+DEADLINE: <2026-03-29 Sun 23:59>
+:PROPERTIES:
+:VALUE: 5%
+:CLRs: 5,6
+:END:
+
+*** Week 12 - Mar 30 - Apr 5
+**** TODO Graded Lab 9
+DEADLINE: <2026-04-05 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 6
+:END:
+
+**** TODO Group Research Report 3
+DEADLINE: <2026-04-05 Sun 23:59>
+:PROPERTIES:
+:VALUE: 5%
+:CLRs: 6
+:END:
+
+*** Week 13 - Apr 6-12
+**** TODO Graded Lab 10
+DEADLINE: <2026-04-12 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 6
+:END:
+
+*** Week 14 - Apr 13-19
+**** TODO Graded Lab 11
+DEADLINE: <2026-04-19 Sun 23:59>
+:PROPERTIES:
+:VALUE: 3%
+:CLRs: 1,2,3,4,5,6
+:END:
+
+*** Week 15 - Apr 20-26
+**** TODO Final Group Project
+DEADLINE: <2026-04-26 Sun 23:59>
+:PROPERTIES:
+:VALUE: 20%
+:CLRs: 1,2,3,4,6
+:END:
+
+* CST8914 Accessible by Design
+** Professor: Toufic Sbeiti
+** Email: sbeitit@algonquincollege.com
+
+*** Week 2 - Jan 19-24
+**** TODO Lab 1
+DEADLINE: <2026-01-24 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 1,2
+:END:
+
+*** Week 3 - Jan 26-31
+**** TODO Lab 2
+DEADLINE: <2026-01-31 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 1,2,3
+:END:
+
+**** Assignment 1 Get (Due week 6)
+
+*** Week 4 - Feb 2-7
+**** TODO Lab 3
+DEADLINE: <2026-02-07 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 3
+:END:
+
+**** TODO Quiz Module 1 (Covers weeks 2 and 3)
+SCHEDULED: <2026-02-02 Mon>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1,2,3,4
+:END:
+
+*** Week 5 - Feb 9-14
+**** TODO Lab 6
+DEADLINE: <2026-02-14 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 1,4
+:END:
+
+**** TODO Lab 7
+DEADLINE: <2026-02-14 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 1,4
+:END:
+
+*** Week 6 - Feb 16-21
+**** Family Day (No Class)
+
+**** TODO Assignment 1
+DEADLINE: <2026-02-21 Fri 23:59>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 1,3,4
+:END:
+
+*** Week 7 - Feb 23-28
+**** TODO Lab 4
+DEADLINE: <2026-02-28 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 3,4
+:END:
+
+**** TODO Quiz Module 3 (Covers week 5)
+SCHEDULED: <2026-02-23 Mon>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1,2,3,4
+:END:
+
+**** Assignment 2 Get (Due week 10)
+
+*** Week 8 - Mar 2-7
+**** BREAK Week
+
+*** Week 9 - Mar 9-14
+**** TODO Lab 9
+DEADLINE: <2026-03-14 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 4,5
+:END:
+
+**** TODO Quiz Module 2 (Covers weeks 4 and 7)
+SCHEDULED: <2026-03-09 Mon>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1,2,3,4
+:END:
+
+*** Week 10 - Mar 16-21
+**** TODO Lab 10
+DEADLINE: <2026-03-21 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 4,5
+:END:
+
+**** TODO Quiz JavaScript
+SCHEDULED: <2026-03-16 Mon>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1,2,3,4
+:END:
+
+**** TODO Assignment 2
+DEADLINE: <2026-03-21 Fri 23:59>
+:PROPERTIES:
+:VALUE: 15%
+:CLRs: 1,3,4
+:END:
+
+**** Final Project Get (Due week 14, 2 hours before class)
+
+*** Week 11 - Mar 23-28
+**** TODO Oral Test
+SCHEDULED: <2026-03-23 Mon>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 1,2,3,4,5
+:END:
+
+*** Week 12 - Mar 30 - Apr 4
+**** TODO Lab 12
+DEADLINE: <2026-04-04 Fri 23:59>
+:PROPERTIES:
+:VALUE: Part of 30%
+:CLRs: 1,3,4,5
+:END:
+
+*** Week 13 - Apr 6-11
+**** TODO Quiz Module 4
+SCHEDULED: <2026-04-06 Mon>
+:PROPERTIES:
+:VALUE: 2%
+:CLRs: 1,2,3,4
+:END:
+
+*** Week 14 - Apr 13-18
+**** TODO Final Project Group Presentation (In-class)
+SCHEDULED: <2026-04-13 Mon>
+:PROPERTIES:
+:VALUE: 25% (total)
+:CLRs: 1,2,3,4,5
+:END:
+
+**** TODO Final Project Submission
+DEADLINE: <2026-04-13 Mon 12:00>
+:PROPERTIES:
+:VALUE: 25% (total)
+:CLRs: 1,2,3,4,5
+:END:
+
+* CST8915 Full-stack Cloud-native Development
+** Professor: Ramy Mohamed
+** Email: mohamer@algonquincollege.com
+** Section: 300 - Hybrid
+
+*** Week 2 - Jan 19-24
+**** TODO Lab 1 Assignment
+DEADLINE: <2026-01-24 Fri>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 1
+:END:
+
+*** Week 3 - Jan 26-31
+**** TODO Lab 2 Assignment
+DEADLINE: <2026-01-31 Fri>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 1
+:END:
+
+*** Week 4 - Feb 2-7
+**** TODO Quiz 1
+SCHEDULED: <2026-02-02 Mon>
+:PROPERTIES:
+:VALUE: 7.5%
+:CLRs: 1,2,3,4,5,6,7,8
+:END:
+
+**** TODO Lab 3 Assignment
+DEADLINE: <2026-02-07 Fri>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 1,2,6
+:END:
+
+*** Week 5 - Feb 9-14
+**** TODO Lab 4 Assignment
+DEADLINE: <2026-02-14 Fri>
+:PROPERTIES:
+:VALUE: 6%
+:CLRs: 2,6,7
+:END:
+
+*** Week 6 - Feb 16-21
+**** TODO Quiz 2
+SCHEDULED: <2026-02-16 Mon>
+:PROPERTIES:
+:VALUE: 7.5%
+:CLRs: 1,2,3,4,5,6,7,8
+:END:
+
+**** Midterm Project Discussion
+
+*** Week 7 - Feb 23-28
+**** TODO Midterm Project (Group Assignment)
+DEADLINE: <2026-02-28 Fri>
+:PROPERTIES:
+:VALUE: 15%
+:CLRs: 4,5
+:END:
+
+*** Week 8 - Mar 2-7
+**** BREAK Week
+
+*** Week 9 - Mar 9-14
+**** TODO Lab 5 Assignment
+DEADLINE: <2026-03-14 Fri>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 2,3,8
+:END:
+
+*** Week 10 - Mar 16-21
+**** TODO Quiz 3
+SCHEDULED: <2026-03-16 Mon>
+:PROPERTIES:
+:VALUE: 7.5%
+:CLRs: 1,2,3,4,5,6,7,8
+:END:
+
+**** TODO Lab 6 Assignment
+DEADLINE: <2026-03-21 Fri>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 6
+:END:
+
+*** Week 11 - Mar 23-28
+**** TODO Lab 7 Assignment
+DEADLINE: <2026-03-28 Fri>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 1,6
+:END:
+
+*** Week 12 - Mar 30 - Apr 4
+**** TODO Lab 8 Assignment
+DEADLINE: <2026-04-04 Fri>
+:PROPERTIES:
+:VALUE: 6%
+:CLRs: 1,5,6
+:END:
+
+*** Week 13 - Apr 6-11
+**** TODO Quiz 4
+SCHEDULED: <2026-04-06 Mon>
+:PROPERTIES:
+:VALUE: 7.5%
+:CLRs: 1,2,3,4,5,6,7,8
+:END:
+
+**** TODO Lab 9 Assignment
+DEADLINE: <2026-04-11 Fri>
+:PROPERTIES:
+:VALUE: 4%
+:CLRs: 4
+:END:
+
+**** Final Project Discussion
+
+*** Week 14-15 - Apr 13-25
+**** TODO Final Project Assignment
+DEADLINE: <2026-04-25 Fri>
+:PROPERTIES:
+:VALUE: 15%
+:CLRs: 1,2,3,4,5,6,7,8
+:END:
+
+* CST8916 Remote Data and Real-time Applications
+** Professor: Ramy Mohamed
+** Email: mohamer@algonquincollege.com
+** Section: 300 - Hybrid
+
+*** Week 3 - Jan 26-31
+**** TODO Quiz 1
+SCHEDULED: <2026-01-26 Mon>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 1,2,3
+:END:
+
+*** Week 4 - Feb 2-7
+**** TODO Assignment 1
+DEADLINE: <2026-02-07 Fri>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 1,2,4
+:END:
+
+*** Week 5 - Feb 9-14
+**** TODO Quiz 2
+SCHEDULED: <2026-02-09 Mon>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 1,2,3
+:END:
+
+*** Week 6 - Feb 16-21
+**** Midterm Project Discussion
+
+*** Week 7 - Feb 23-28
+**** TODO Midterm Project (Group Assignment)
+DEADLINE: <2026-02-28 Fri>
+:PROPERTIES:
+:VALUE: 15%
+:CLRs: 1,2,4
+:END:
+
+*** Week 8 - Mar 2-7
+**** BREAK Week
+
+*** Week 10 - Mar 16-21
+**** TODO Assignment 2
+DEADLINE: <2026-03-21 Fri>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 2,4
+:END:
+
+*** Week 11 - Mar 23-28
+**** TODO Quiz 3
+SCHEDULED: <2026-03-23 Mon>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 1,2,3
+:END:
+
+*** Week 13 - Apr 6-11
+**** TODO Quiz 4
+SCHEDULED: <2026-04-06 Mon>
+:PROPERTIES:
+:VALUE: 10%
+:CLRs: 1,2,3,4
+:END:
+
+*** Week 15 - Apr 20-25
+**** TODO Final Project
+DEADLINE: <2026-04-25 Fri>
+:PROPERTIES:
+:VALUE: 25%
+:CLRs: 1,2,3,4
+:END:
+
+* Summary by Week
+
+** Note about CST8913
+CST8913 has 10 online quizzes (due Sundays @11:59 PM) and 10 labs (due on lab day @11:59 PM) throughout the semester. Specific weekly dates have not been provided yet. In-class quizzes occur during scheduled class times.
+
+** Week 1 (Jan 12-18)
+- Orientation and course introductions
+
+** Week 2 (Jan 19-25)
+- Nothing Due
+** Week 3 (Jan 26 - Feb 1)
+- CST8911:
+  - Quiz 1 - Done
+  - Assignment 1 - Done
+- CST8912:
+  - Quiz 1 - Done
+  - Lab 2 - Done
+- CST8913:
+  - Quiz 2 - Done
+  - Lab 2 - Done
+- CST8916: Quiz 1 - Done
+
+** Week 4 (Feb 2-8)
+- CST8911: Quiz 2 and Discussion 1 due Sunday Feb 8
+- CST8912: Quiz 2 Due Sunday Feb 8
+- CST8914: Lab 2 Due Friday Jan 30
+- CST8915: Quiz 1 and Lab 1+2 due Thursday Feb 5
+- CST8916: Assignment 1 Due Friday Feb 6
+
+** Week 5 (Feb 9-15)
+- CST8911: Class Discussion 2 (Due Sun 23:59)
+- CST8912: Quiz 4 & Lab 4 (Due Sun 23:59)
+- CST8914: Lab 6 & Lab 7 (Due Fri 23:59)
+- CST8915: Lab 4 (Due Fri)
+- CST8916: Quiz 2 (Mon)
+
+** Week 6 (Feb 16-22)
+- CST8911: Lab 2 & Assignment 2 (Due Sun 23:59)
+- CST8912: Quiz 5 & Lab 5 (Due Sun 23:59)
+- CST8914: Assignment 1 (Due Fri 23:59)
+- CST8915: Quiz 2 (Mon)
+
+** Week 7 (Feb 23 - Mar 1)
+- CST8911: Midterm Group Project (Due Sun 23:59)
+- CST8912: Group Presentation 1 (In-class Mon)
+- CST8913: Midterm Exam & Midterm Oral Exam (During class)
+- CST8914: Lab 4 & Quiz Module 3 (Fri/Mon)
+- CST8915: Midterm Project (Due Fri)
+- CST8916: Midterm Project (Due Fri)
+
+** Week 8 (Mar 2-8)
+- BREAK WEEK for all courses
+
+** Week 9 (Mar 9-15)
+- CST8911: Lab 3 & Class Discussion 3 (Due Sun 23:59)
+- CST8912: Lab 6, Quiz 6, & Research Report 1 (Due Sun 23:59)
+- CST8914: Lab 9 & Quiz Module 2 (Fri/Mon)
+- CST8915: Lab 5 (Due Fri)
+
+** Week 10 (Mar 16-22)
+- CST8911: Assignment 3 & Quiz 3 (Due Sun 23:59)
+- CST8912: Lab 7 & Group Presentation 2 (Sun/Mon)
+- CST8914: Lab 10, Quiz JavaScript, & Assignment 2 (Fri/Mon/Fri)
+- CST8915: Quiz 3 & Lab 6 (Mon/Fri)
+- CST8916: Assignment 2 (Due Fri)
+
+** Week 11 (Mar 23-29)
+- CST8911: Class Discussion 4 (Due Sun 23:59)
+- CST8912: Lab 8 & Quiz 7 (Due Sun 23:59)
+- CST8914: Oral Test (Mon)
+- CST8915: Lab 7 (Due Fri)
+- CST8916: Quiz 3 (Mon)
+
+** Week 12 (Mar 30 - Apr 5)
+- CST8911: Lab 4 & Quiz 4 (Due Sun 23:59)
+- CST8912: Lab 9 & Research Report 3 (Due Sun 23:59)
+- CST8914: Lab 12 (Due Fri 23:59)
+- CST8915: Lab 8 (Due Fri)
+
+** Week 13 (Apr 6-12)
+- CST8911: Lab 5 & Quiz 5 (Due Sun 23:59)
+- CST8912: Lab 10 (Due Sun 23:59)
+- CST8914: Quiz Module 4 (Mon)
+- CST8915: Quiz 4 & Lab 9 (Mon/Fri)
+- CST8916: Quiz 4 (Mon)
+
+** Week 14 (Apr 13-19)
+- CST8912: Lab 11 (Due Sun 23:59)
+- CST8914: Final Project Presentation & Submission (Mon)
+- CST8915: Final Project (Due Fri)
+
+** Week 15 (Apr 20-26)
+- CST8911: Final Group Project (Due Sun)
+- CST8912: Final Group Project (Due Sun 23:59)
+- CST8915: Final Project (Due Fri)
+- CST8916: Final Project (Due Fri)
