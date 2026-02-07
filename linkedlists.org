@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       26ff2591-18eb-46d4-9be6-45f4702e9082
+:END:
+#+title: Linked-lists
+
+* What is a Linked List?
+A linked list was created to solve Arrays contiguous memory problem. Since arrays have to store its elements right next to each other in memory, it is inefficient.
+
+Items stored in a linked-list store both the value/item itself, as well as some metadata (address to the next item in the list). This allows for each item in the list to be stored anywhere in memory, without having to worry about bad/unused memory allocation.
+
+* Why would arrays still be a thing if Linked-lists are so much better at memory allocation?
+Linked-lists are significantly better at **inserts** than primitive arrays. However, lets say you want to access the **last** item in your linked-list, you will have to travel through the whole list to find the address of the last item in memory. This is where primitive arrays are better than linked-lists.
+
+Related primitive data type notes: [[id:f6b5e353-ab4d-4041-a1e8-c21b70566a4d][Primitive Ds]]

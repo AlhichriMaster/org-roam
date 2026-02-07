@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       753f2479-d7e0-435b-ace5-5eae22bbc8b9
+:END:
+#+title: Binary Search
+
+* Example Scenario
+Finding a word in a dictionary. Given that all dictionaries are sorted alphabetically, you realistically don't need to flip through the whole book to find the word you're looking for. You can just flip open a random page, look at the letter you see, and decide whether to go forward or backward.
+
+
+** When to use this algorithm?
+- This algorithm ONLY works when the list is sorted.
+- When you need to find an element in an array or something
+
+This algorithm is O(log2(n)).
+
+* Simple Python Code
+#+begin_src python
+def binary_search(nums, target):
+    low = 0
+    high = len(nums) - 1
+
+    while low <= high:
+        mid = (low + high) // 2
+        guess = nums[mid]
+
+        if guess == target:
+            return mid
+        if guess > target:
+            high = mid - 1
+        else:
+            low = mid + 1
+
+    return None
+#+end_src
+
+
+* Exercises
+- Suppose a list of 128 names, whats the max number of steps it would take?
+  log2(128) = 7
+- Suppose the list size is doubled, whats the max now?
+  Literally just previous answer + 1, therefore 8

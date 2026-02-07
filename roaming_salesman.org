@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       151f5a6a-eb17-4280-a035-49c7daac29aa
+:END:
+#+title: Roaming Salesman
+
+* Example Scenario
+A salesperson has to travel to 5 different cities while traveling the minimum distance.
+
+* What does this imply?
+
+This is a well known "unsolvable" questions in CS. There is no known smart algorithm for this type of question. The best you can do is calculate each and every permutation to find the absolute minimum.
+
+Best thing to do is **approximate**
+
+* Runtime
+O(n!)

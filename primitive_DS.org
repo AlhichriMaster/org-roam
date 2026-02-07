@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       f6b5e353-ab4d-4041-a1e8-c21b70566a4d
+:END:
+#+title: Primitive Ds
+
+This is C++ specific for the most part.
+Also assumes a 64-bit system
+
+* Basic Data Types
+** int
+- Default size: 4-bytes
+- Stores numbers for binary, octal, decimal, and hexadecimal base systems.
+- Ranges: -2,147,483,648 -> 2,147,483,647
+** float
+- Default size: 4-bytes
+- Stores decimals
+- Ranges: 1.2e-38 -> 3.4e+38
+** double
+- Default size: 8-bytes
+- Has higher precision than a float
+- Ranges: 1.7e-308 -> 1.7e+308
+** char
+- Default size: 1-byte
+- Stores a single character (letter)
+** bool
+- Default size: 1-byte
+- Either 0 or 1 (false or true)
+** void
+- Absence of a type.
+- Can only be used for pointers and functions.
+* Derived Data Types
+** array
+** pointer
+** reference
+** function
+* User Defined Data Types
+** class
+** structure
+** union
+** typedef
+** using
+
+
+* Data Type Modifiers
+Keyword used to change or give extra meaning to already exisitng data types.
+** short
+**Can only be used with int**
+Decreases the size of the date type in the memory.
+So, instead of a 4-byte int it becomes a 2-byte int
+** long
+**Can only be used with int**
+Increases the size of the data type in the memory.
+So, instead of a 4-byte int it becomes an 8-byte int.
+** signed
+**Can only be used with int and char types**
+Indicates that the variable can be negative and/or positive.
+** unsigned
+**Can only be used with int and char types**
+Indicates that the variable can only be non-negative.

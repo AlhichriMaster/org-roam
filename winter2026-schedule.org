@@ -770,9 +770,11 @@ CST8913 has 10 online quizzes (due Sundays @11:59 PM) and 10 labs (due on lab da
 ** Week 4 (Feb 2-8)
 - CST8911: Quiz 2 and Discussion 1 due Sunday Feb 8
 - CST8912: Quiz 2 Due Sunday Feb 8
-- CST8914: Lab 2 Due Friday Jan 30
-- CST8915: Quiz 1 and Lab 1+2 due Thursday Feb 5
-- CST8916: Assignment 1 Due Friday Feb 6
+- CST8914: Lab 4 Due Friday Feb 6
+- CST8915:
+  - Quiz 1 - Done
+  - Lab 1+2 due Sunday Feb 8
+- CST8916: Assignment 1 Due Friday Feb 10
 
 ** Week 5 (Feb 9-15)
 - CST8911: Class Discussion 2 (Due Sun 23:59)

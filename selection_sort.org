@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       71c41878-7f37-490b-9b3b-bd09b1166bfb
+:END:
+#+title: Selection Sort
