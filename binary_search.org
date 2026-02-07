@@ -39,3 +39,10 @@ def binary_search(nums, target):
   log2(128) = 7
 - Suppose the list size is doubled, whats the max now?
   Literally just previous answer + 1, therefore 8
+
+* LeetCode questions solved for this topic
+| Number | Name                   | Difficulty  | Completed |
+| ------ | ----                   | ----------- | --------- |
+|    704 | Binary Search          | Easy        | Yes       |
+|     35 | Search Insert Position | Easy        | Yes       |
+|        |                        |             |           |
