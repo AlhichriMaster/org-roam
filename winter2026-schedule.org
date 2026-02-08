@@ -768,26 +768,34 @@ CST8913 has 10 online quizzes (due Sundays @11:59 PM) and 10 labs (due on lab da
 - CST8916: Quiz 1 - Done
 
 ** Week 4 (Feb 2-8)
-- CST8911: Quiz 2 and Discussion 1 due Sunday Feb 8
-- CST8912: Quiz 2 Due Sunday Feb 8
-- CST8914: Lab 4 Due Friday Feb 6
+- CST8911: Discussion 1 due Sunday Feb 8
+- CST8912:
+  - Quiz 2 and 3? Due Sunday Feb 8
+  - Lab 3 Due Feb 8
+- CST8914: Lab 4 - Done
 - CST8915:
   - Quiz 1 - Done
-  - Lab 1+2 due Sunday Feb 8
-- CST8916: Assignment 1 Due Friday Feb 10
 
 ** Week 5 (Feb 9-15)
-- CST8911: Class Discussion 2 (Due Sun 23:59)
-- CST8912: Quiz 4 & Lab 4 (Due Sun 23:59)
-- CST8914: Lab 6 & Lab 7 (Due Fri 23:59)
-- CST8915: Lab 4 (Due Fri)
-- CST8916: Quiz 2 (Mon)
+- CST8911:
+  - Quiz 2 Due on Feb 15
+  - Class Discussion 2 Due Feb 15
+- CST8912: Quiz 4 & Lab 4
+- CST8914: No Class
+- CST8915:
+  - Lab 1+2 Due Feb 9
+  - Lab 3 Due Feb 12
+- CST8916:
+  - Quiz 2 Due Feb 11
+  - Assignment 1 Due Friday Feb 10
 
 ** Week 6 (Feb 16-22)
 - CST8911: Lab 2 & Assignment 2 (Due Sun 23:59)
 - CST8912: Quiz 5 & Lab 5 (Due Sun 23:59)
-- CST8914: Assignment 1 (Due Fri 23:59)
-- CST8915: Quiz 2 (Mon)
+- CST8914: Assignment 1 Due Feb 20
+- CST8915:
+  - Lab 4 Due Feb 19
+  - Quiz 2 Feb 19
 
 ** Week 7 (Feb 23 - Mar 1)
 - CST8911: Midterm Group Project (Due Sun 23:59)
@@ -843,3 +851,4 @@ CST8913 has 10 online quizzes (due Sundays @11:59 PM) and 10 labs (due on lab da
 - CST8912: Final Group Project (Due Sun 23:59)
 - CST8915: Final Project (Due Fri)
 - CST8916: Final Project (Due Fri)
+

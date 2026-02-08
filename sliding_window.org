@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       a1f4a737-2a02-411c-b4c3-225e5c7d6faf
+:END:
+#+title: Sliding Window
+
+* Introduction
+A lot of problems (Array and LinkedList related) as us to find or calculate something among all the contiguous sub-arrays of a given size.
+
+For example: **Given an array, find the average of all contiguous sub-arrays of size 'K' in it.**
+
+Array: [1, 3, 2, 6, -1, 4, 1, 8, 2], K = 5
+
+** Personal Initial Thoughts
+Brute force very simple, just loop from 0 -> len(arr) - K, then at every I we sum arr[i:i+5] and divide by 5.
+
+The next thing I can see that would be more optimized is looping only once, keeping track of the previous sum, minus the previous **first element** and adding the new element at arr[i+5]. Although I am not sure if this is actually more optimized.
+
+** Educative Explanation
+So I was technically right, but after reading the code it looks less complicated than what I initially explained.
+
+Basically you keep adding to the sum every time and only subtract the first element when our index reaches >= K - 1.
+
+This needs more variables to keep track of every thing, namely:
+- result :- []
+- windowSum :- double
+- windowStart :- basically the element at position 0 of the "current window" / the element that is going to be removed next
+- windowEnd :- index of the loop, basically the current element being added to the sum
+
+** Sample Code
+#+begin_src python
+def sliding_window(K, nums):
+    result = []
+    windowStart = 0
+    windowSum = 0.0
+
+    for windowEnd in range(len(nums)):
+        windowSum += nums[windowEnd]
+
+        if windowEnd >= K - 1:
+            result[windowStart] = windowSum / K
+            windowSum -= nums[windowStart]
+            windowStart += 1
+
+    return result
+#+end_src
+
+
+** Practice Question 1 (Easy)
+- Question 1 :: Given an array of positive numbers and a positive number ‘k’, find the maximum sum of any contiguous subarray of size ‘k’.
+
+Example 1:
+Input: [2, 1, 5, 1, 3, 2], K=3
+Output: 9
+
+Example 2:
+Input: [2, 3, 4, 1, 5], K=2
+Output: 7
+
+#+begin_src python
+def maximum_sum_of_subarray(k, nums):
+    max_sum = -1
+    window_start = 0
+    window_sum = 0
+
+    for window_end in range(len(nums)):
+        window_sum += nums[window_end]
+
+        if window_end >= K - 1:
+            max_sum = max(max_sum, window_sum)
+            window_sum -= nums[window_start]
+            window_start += 1
+
+    return max_sum
+#+end_src
+
+
+** Practice Question 2 (Easy)
+- Question 2 :: Given an array of positive numbers and a positive number ‘S’, find the length of the smallest contiguous subarray whose sum is greater than or equal to ‘S’. Return 0, if no such subarray exists.
+
+Example 1:
+Input: [2, 1, 5, 2, 3, 2], S=7
+Output: 2
+
+Example 2:
+Input: [2, 1, 5, 2, 8], S=7
+Output: 1
+
+- I had to read the pseudo-code for this.
+#+begin_src python
+def smallest_subarray_equal_to_S(s, nums):
+    window_start, window_sum = 0, 0
+    min_len = math.inf
+    for window_end in range(len(nums)):
+        window_sum += nums[window_end]
+
+        while window_sum >= s:
+            curr_len = window_end - window_start + 1
+            min_len = min(min_len, curr_len)
+            window_sum -= nums[window_start]
+            window_start += 1
+    if min_len == math.inf:
+        return 0
+    return min_len
+
+#+end_src
