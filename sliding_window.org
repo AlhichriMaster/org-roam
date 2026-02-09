@@ -103,3 +103,22 @@ def smallest_subarray_equal_to_S(s, nums):
     return min_len
 
 #+end_src
+
+
+** Practice Question 3 (Medium)
+- Question 3 :: Given a string, find the length of the longest substring in it with no more than K distinct characters.
+
+Example 1:
+Input: String="araaci", K=2
+Output: 4
+
+Example 2:
+Input: String="araaci", K=1
+Output: 2
+
+
+#+begin_src python
+def longest_substring_with_no_more_than_k_distinct(K, nums):
+
+
+#+end_src
